@@ -12,7 +12,6 @@ Deceptive Ecosystems: Creating a series of mobile, web, and system-level guardia
 
 Hardware-Level Logic: Bridging the gap between software code and real-world device safety.
 
-
 🛰️ Featured Intelligence: Nebula-Ultimate
 My flagship project, Nebula-Ultimate, is an advanced 14-shield tactical framework that utilizes:
 
@@ -22,14 +21,12 @@ Tactical Deception: Fake UI states to trap and mislead unauthorized users.
 
 System Integrity: Zero-problem code architecture for maximum reliability.
 
-
 🔬 Core Capabilities & Hunger for Innovation
 Continuous Evolution: I am committed to developing a vast portfolio of AI-enhanced security tools for Web and Android.
 
 Technical Arsenal: Dart (Flutter), Kotlin, Java, and Strategic AI Logic.
 
 Mission: To innovate, protect, and contribute to the global cybersecurity community with respect, dedication, and professional excellence.
-
 
 📈 Status: Perpetually Learning & Building
 "My hunger for learning is infinite. Every project is a new layer of defense I build for the world."
